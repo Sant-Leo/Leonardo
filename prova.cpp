@@ -10,4 +10,7 @@ int main() {
  cout << " Digite sua idade." << endl ;
  cin >> I ;
  cout << nome <<", " << I << " anos" << endl;
-}
+ cout << "Digite sua ocupacao" << endl ;
+ cin >> O ;
+ cout << nome <<", " << I << " anos ," << O << endl;
+ }
